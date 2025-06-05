@@ -13,12 +13,11 @@
 
 I'm a seasoned **Software Engineer** at **Quantum Foundation**, with over 6 years of experience building high-performance applications. I specialize in **Python**, **Golang**, and **Docker**, with deep experience in both **monolithic** and **microservices** architectures.
 
-- 👥 Part of a team of developers, delivering 50+ production-grade systems.
-- ⚙️ Architecting scalable services integrated with banks, SSO, and real-time queues.
-- 🛠️ Mastery over documentation, standards, and deployment pipelines.
+- 👥 Developed and maintained 50+ production-grade backend systems.
+- ⚙️ Built scalable services integrated with banks, SSO, and real-time queues.
+- 🛠️ Strong focus on clean architecture, documentation, and CI/CD pipelines.
 
 ---
-
 
 ### 💼 Professional Timeline
 
@@ -28,7 +27,7 @@ I'm a seasoned **Software Engineer** at **Quantum Foundation**, with over 6 year
 
 - Leading backend development across critical services.
 - Integrating payment gateways, building secure systems, and streamlining team workflows.
-- Bridging the gap between tech and community service.
+- Bridging the gap between technology and humanitarian work.
 
 ---
 
@@ -37,12 +36,26 @@ I'm a seasoned **Software Engineer** at **Quantum Foundation**, with over 6 year
 Beyond code, I’ve been a **dedicated volunteer** at **Quantum Foundation** since 2012.  
 My contributions include:
 
-- 🩸 Blood donation
-- ⚰️ COVID-19 support Burial of the deceased
-- 🏠 Education & care for orphans
+- 🩸 Blood donation. See [here](https://blood.quantummethod.org.bd). 
+- ⚰️ Burial of the deceased during COVID-19 and beyond. See [here]([url](https://coronajoy.quantummethod.org.bd). 
+- 🏠 Supporting education and care for orphans  
 
 These experiences fuel both my empathy and my leadership.
 
+---
+
+### 🛠️ Tech Stack
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40" alt="Golang" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" alt="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" alt="Linux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git" />
+</p>
+
+---
 
 ### 📊 GitHub Stats
 
